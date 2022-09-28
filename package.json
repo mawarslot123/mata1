@@ -1,0 +1,18 @@
+{
+  "name": "daftar-situs-slot-online-paling-gacor-gampang-menang-pasti-jp",
+  "theme": "ui",
+  "version": "1.5.0",
+  "description": "Daftar Situs Slot Online Paling Gacor Gampang Menang Pasti JP",
+  "keywords": [
+    "Situs Slot",
+    "Slot Online",
+    "Slot Gampang Menang",
+    "Slot Gacor",
+    "Slot Pasti JP"
+  ],
+  "repository": "https://github.com/mawarslot123/mata1.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
